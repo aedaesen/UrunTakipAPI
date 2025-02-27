@@ -1,0 +1,6 @@
+@UrunTakipAPI_HostAddress = http://localhost:5134
+
+GET {{UrunTakipAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

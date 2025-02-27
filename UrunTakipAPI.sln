@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunTakipAPI", "UrunTakipAPI\UrunTakipAPI.csproj", "{C2FC203A-4551-40DD-B71E-944849B07203}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunTakip.Core", "UrunTakip.Core\UrunTakip.Core.csproj", "{06E7FDB8-4503-480D-9654-F62771BA1C06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunTakip.Data", "UrunTakip.Data\UrunTakip.Data.csproj", "{F241299E-0C03-4416-ABF2-963FF0FFBBE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrunTakip.Service", "UrunTakip.Service\UrunTakip.Service.csproj", "{EA237E47-2CBE-4EFD-BFA4-70F500795BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2FC203A-4551-40DD-B71E-944849B07203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2FC203A-4551-40DD-B71E-944849B07203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2FC203A-4551-40DD-B71E-944849B07203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2FC203A-4551-40DD-B71E-944849B07203}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06E7FDB8-4503-480D-9654-F62771BA1C06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06E7FDB8-4503-480D-9654-F62771BA1C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06E7FDB8-4503-480D-9654-F62771BA1C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06E7FDB8-4503-480D-9654-F62771BA1C06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F241299E-0C03-4416-ABF2-963FF0FFBBE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F241299E-0C03-4416-ABF2-963FF0FFBBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F241299E-0C03-4416-ABF2-963FF0FFBBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F241299E-0C03-4416-ABF2-963FF0FFBBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA237E47-2CBE-4EFD-BFA4-70F500795BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA237E47-2CBE-4EFD-BFA4-70F500795BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA237E47-2CBE-4EFD-BFA4-70F500795BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA237E47-2CBE-4EFD-BFA4-70F500795BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
